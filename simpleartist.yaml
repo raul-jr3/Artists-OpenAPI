@@ -5,7 +5,7 @@ info:
   description: A simple API to illustrate OpenAPI concepts
 
 servers:
-  - url: 192.168.5.183:5000/v1
+  - url: "Insert Your Host here"/v1
 
 
 components:
